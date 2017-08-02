@@ -1,0 +1,33 @@
+wish you a happy happy happy happy User1@User MINGW64 /e/devops/git/RAJAGOPAL (master)
+$ touch vinay
+
+User1@User MINGW64 /e/devops/git/RAJAGOPAL (master)
+$ cat >>vinay
+hi brother you are one of the wonderfull brother in the world
+god has given you a gift
+
+User1@User MINGW64 /e/devops/git/RAJAGOPAL (master)
+$ git add vinay
+warning: LF will be replaced by CRLF in vinay.
+The file will have its original line endings in your working direct
+
+User1@User MINGW64 /e/devops/git/RAJAGOPAL (master)
+$ git commit -m "my lovely commit"
+[master 0628195] my lovely commit
+ 1 file changed, 2 insertions(+)
+ create mode 100644 vinay
+
+User1@User MINGW64 /e/devops/git/RAJAGOPAL (master)
+$ git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 334 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object
+To https://github.com/RAJAGOPALPV/RAJAGOPAL.git
+   bc20da2..0628195  master -> master
+
+User1@User MINGW64 /e/devops/git/RAJAGOPAL (master)
+$c >rambo1119
+happy happy mments in life is going to come
